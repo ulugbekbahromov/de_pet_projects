@@ -4,8 +4,8 @@ from textwrap import indent
 import boto3
 import pandas as pd
 
-AWS_KEY_ID = 'AKIASCJYQIUOXFKJOQPP'
-AWS_SECRET_KEY = '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'
+AWS_KEY_ID = 'AWIAFCJYQIAOXFKJOQPP'
+AWS_SECRET_KEY = 'RY4IDJG+Zp6DgX+jxAhWEV2u3HLAxwdBIWeU5LT5'
 
 ## 1
 # Generate the boto3 client for interacting with S3 and SNS
